@@ -492,8 +492,7 @@ p {
 }
 
 .logo-image {
-    width: 12rem;
-    height: 6rem;
+
     object-fit:contain ;
     border-radius: var(--border-radius-lg);
     box-shadow: var(--shadow-xl);
@@ -1474,8 +1473,8 @@ p {
     
     /* Hero Section */
     .logo-image {
-        width: 8rem;
-        height: 4rem;
+       
+        height: 16rem;
     }
     
     .hero-cta {
@@ -1587,7 +1586,7 @@ p {
     }
     
     .feature-item span {
-        font-size: 0.85rem;
+        font-size: 0https://fight-beta.vercel.app/.85rem;
     }
 }
 
